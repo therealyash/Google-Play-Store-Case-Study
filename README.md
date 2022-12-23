@@ -1,4 +1,6 @@
 # Google-Play-Store-Case-Study
+![import and view](https://github.com/therealyash/Google-Play-Store-Case-Study/blob/main/Assets/Images/Play%20Store%20Analysis.png?raw=true)
+
 **Overview**
 
 This repo contains a case study of the applications on the Google Play Store, where we handle data, compare, the attributes like size, price, ratings of the app and visualize to gain valuable insights.
